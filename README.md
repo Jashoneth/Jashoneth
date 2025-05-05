@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jashoneth
-- 👀 I’m interested in Supplychain Management, Manufacturing & Mechatronics
+- 👀 I’m interested in Software Development with Supplychain Management, Manufacturing & Mechatronics
 - 📫 You can reach me out via email: jashoneth@gmail.com
 
 <!---
